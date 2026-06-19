@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there! 👋 I'm Khushi Yadav
 
-<!--
-**khushiyadav-Dev/khushiyadav-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech student (Computer Science with AI & ML) at MGIMT. I'm passionate about coding, problem-solving, and exploring the world of Artificial Intelligence.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently learning **Python, Data Structures, and AI/ML**.
+- 🌱 I’m currently focused on building a solid foundation in Programming.
+- 💻 Check out my latest work in my [Python-Basics-Practice](https://github.com/KhushiyadavDev/Python-Basics-Practice) repository.
+- 💬 Ask me about anything related to Python, Engineering Math, or tech learning!
+- 📫 How to reach me: [LinkedIn Profile Link]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+* **Languages:** Python, C
+* **Tools:** VS Code, Git, Photoshop
+* **Interest:** AI/ML, Data Annotation, Graphic Design
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhushiyadavDev&show_icons=true&theme=radical)

@@ -6,7 +6,7 @@ I am a B.Tech student (Computer Science with AI & ML) at MGIMT. I'm passionate a
 - 🌱 I’m currently focused on building a solid foundation in Programming.
 - 💻 Check out my latest work in my [Python-Basics-Practice](https://github.com/KhushiyadavDev/Python-Basics-Practice) repository.
 - 💬 Ask me about anything related to Python, Engineering Math, or tech learning!
-- 📫 How to reach me: [LinkedIn Profile Link]
+- 📫 How to reach me: [ https://x.com/khushiyadav_08]
 
 ---
 
@@ -18,4 +18,4 @@ I am a B.Tech student (Computer Science with AI & ML) at MGIMT. I'm passionate a
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhushiyadavDev&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushiyadav-Dev&show_icons=true&theme=radical)

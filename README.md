@@ -7,10 +7,10 @@ I am a B.Tech CS (AI/ML) student at MGIMT. I am passionate about coding, problem
 ### 🚀 My Repositories
 Here are the repositories where I showcase my work:
 
-- [🐍 Python-Basics-Practice](https://github.com/khushiyadavDev/Python-Basics-Practice) - My daily Python learning journey and practice problems.
-- [📊 Data-Analytics-Projects](https://github.com/khushiyadavDev/Data-Analytics-Projects) - Analysis tools, calculators, and report generators.
-- [🤖 End-to-End-AI-Projects](https://github.com/khushiyadavDev/End-to-End-AI-Projects) - AI models, fake review detectors, and automated bots.
-- [🧠 Machine-Learning-Models](https://github.com/khushiyadavDev/Machine-Learning-Models) - Currently building and experimenting with Scikit-Learn models. (Work in Progress!)
+- [🐍 Python-Basics-Practice](https://github.com/khushiyadav-Dev/Python-Basics-Practice) - My daily Python learning journey and practice problems.
+- [📊 Data-Analytics-Projects](https://github.com/khushiyadav-Dev/Data-Analytics-Projects) - Analysis tools, calculators, and report generators.
+- [🤖 End-to-End-AI-Projects](https://github.com/khushiyadav-Dev/End-to-End-AI-Projects) - AI models, fake review detectors, and automated bots.
+- [🧠 Machine-Learning-Models](https://github.com/khushiyadav-Dev/Machine-Learning-Models) - Currently building and experimenting with Scikit-Learn models. (Work in Progress!)
 
 ---
 
@@ -22,7 +22,7 @@ Here are the repositories where I showcase my work:
 ---
 
 ### 📊 My Coding Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushiyadavDev&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushiyadav-Dev&show_icons=true&theme=radical)
 
 ---
 *Let's connect! Always open to learning and collaboration.*

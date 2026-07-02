@@ -24,7 +24,9 @@
 ---
 
 ### 📈 Real-Time Impact
-*(https://github-readme-stats.vercel.app/api?username=khushiyadav-Dev&show_icons=true&theme=tokyonight&count_private=true"alt="khushi's Stats"/>)*
+![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushiyadav-Dev&show_icons=true&theme=tokyonight&count_private=true)
+
+
 
 > "Code is just logic in disguise. My goal is to build software that creates value."
 
@@ -50,6 +52,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyadav-Dev&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyadav-Dev&layout=compact&theme=tokyonight)
+
 
 *Let's connect! Always open to learning and collaboration.*
 

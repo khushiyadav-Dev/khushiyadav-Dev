@@ -3,6 +3,9 @@
   <b>B.Tech CS (AI/ML) | Building Intelligent Systems & Scalable Web Solutions</b>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=khushiyadav-Dev&theme=tokyonight&no-bg=true)]()
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&lines=Architecting+AI+Models;Engineering+Data-Driven+Solutions;Developing+Full-Stack+Web+Experiences;Turning+Logic+into+Code" alt="Typing Animation" />
 </p>
@@ -49,9 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=khushiyadav-Dev&show_icons=true&theme=tokyonight&count_private=true" alt="Khushi's Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyadav-Dev&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyadav-Dev&layout=compact&theme=tokyonight)
 

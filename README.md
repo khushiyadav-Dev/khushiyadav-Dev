@@ -1,64 +1,52 @@
-<h1 align="center">Khushi Yadav</h1>
-<p align="center">
-  <b>B.Tech CS (AI/ML) | Building Intelligent Systems & Scalable Web Solutions</b>
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=khushiyadav-Dev&theme=tokyonight&no-bg=true)]()
-
+<h1 align="center">Hi 👋, I'm Khushi Yadav</h1>
+<h3 align="center">Aspiring Cloud Engineer | B.Tech CSE (AI & ML)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&lines=Architecting+AI+Models;Engineering+Data-Driven+Solutions;Developing+Full-Stack+Web+Experiences;Turning+Logic+into+Code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D2FF&center=true&vcenter=true&width=500&lines=Cloud+Architecture+%26+AWS+Enthusiast;Building+Scalable+Cloud+%26+AI+Systems;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 Engineering Focus
-*   **AI/ML:** Developing models that learn and evolve. Currently mastering Scikit-Learn for predictive analysis.
-*   **Full-Stack Logic:** Engineering seamless web interfaces (HTML/CSS/JS) to host AI-powered tools.
-*   **The Pursuit:** Solving real-world problems through efficient C/Python programming.
+## ☁️ About Me
 
-### 🛠 Tech Arsenal
-| Core | Web | Tools |
-| :--- | :--- | :--- |
-| Python | HTML5 | Git & GitHub |
-| C | CSS3 | VS Code |
-| ML/AI | JavaScript | Photoshop |
+xml
+<p style="font-size: 15px; line-height: 1.6;">
+  ☁️ <b>Cloud Focus:</b> Exploring AWS, Linux Server Management, Networking & Cloud Infrastructure.<br/>
+  🤖 <b>AI/ML Background:</b> Integrating Machine Learning models into cloud-native applications.<br/>
+  🎯 <b>Current Goal:</b> Building robust, auto-scalable, and secure cloud solutions.
+</p>
+<div align="center">
+<a href="https://www.linkedin.com/in/khushi-yadav-6417213a7?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/khushiyadav_08" target="_blank">
+<img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="https://leetcode.com/u/Khushiyadav-Dev" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://www.kaggle.com/khushiy08" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+</div>
 
----
+<div align="center">
+<!-- General Stats Card -->
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=khushiyadav-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Khushi's GitHub Stats" />
+<!-- Commit Streak Graph (Dino / Activity Streak) -->
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=khushiyadav-Dev&theme=tokyonight&hide_border=true" alt="Khushi's GitHub Streak" />
+</div>
+<div align="center">
+<!-- Top Languages Used -->
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyadav-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
-
-
-
-
-### 📈 Real-Time Impact
-![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushiyadav-Dev&show_icons=true&theme=tokyonight&count_private=true)
-
-
-
-> "Code is just logic in disguise. My goal is to build software that creates value."
-
----
+</div>
 <p align="center">
-  <a href="mailto:khushiyadav1254@gmail.com">Let's Collaborate</a> | 
-  <a href="https://www.kaggle.com/khushiy08">Explore My Data Science Work</a>
+<i>"Code is just logic in disguise. My goal is to build cloud-native software that scales globally."</i>
 </p>
 
 
-### 📂 Repository Showcase
-*   **[Python-Basics-Practice](link-to-repo):** Daily Python logic building.
-*   **[Web-Development-Journey](link-to-repo):** HTML/CSS/JS experiments & UI projects.
-*   **[End-to-End-AI-Projects](link-to-repo):** Advanced AI model deployments.
-*   **[Machine-Learning-Models](link-to-repo):** Scikit-Learn experimentation.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushiyadav-Dev&show_icons=true&theme=tokyonight&count_private=true" alt="Khushi's Stats" />
-</p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyadav-Dev&layout=compact&theme=tokyonight)
-
-
-*Let's connect! Always open to learning and collaboration.*
 

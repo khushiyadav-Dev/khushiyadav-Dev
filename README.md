@@ -12,9 +12,12 @@
 xml
 <p style="font-size: 15px; line-height: 1.6;">
   ☁️ <b>Cloud Focus:</b> Exploring AWS, Linux Server Management, Networking & Cloud Infrastructure.<br/>
+  
   🤖 <b>AI/ML Background:</b> Integrating Machine Learning models into cloud-native applications.<br/>
+  
   🎯 <b>Current Goal:</b> Building robust, auto-scalable, and secure cloud solutions.
 </p>
+
 <div align="center">
 <a href="https://www.linkedin.com/in/khushi-yadav-6417213a7?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>

@@ -33,14 +33,12 @@ xml
 </a>
 </div>
 
-<div align="center">
-<!-- General Stats Card -->
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=khushiyadav-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Khushi's GitHub Stats" />
-<!-- Commit Streak Graph (Dino / Activity Streak) -->
+<p align="center">
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=khushiyadav-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Khushi's GitHub Stats" </p>
+  
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=khushiyadav-Dev&theme=tokyonight&hide_border=true" alt="Khushi's GitHub Streak" />
 </div>
 <div align="center">
-<!-- Top Languages Used -->
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyadav-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 

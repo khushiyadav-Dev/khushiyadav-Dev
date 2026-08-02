@@ -1,3 +1,57 @@
+
+<h1 align="center">Hi 👋, I'm Khushi Yadav</h1>
+
+<h3 align="center">Aspiring Cloud Engineer | B.Tech CSE (AI & ML)</h3>
+
+<p align="center">
+  <font color="#00b0ff" size="4"><b>Cloud Architecture & AWS Enthusiast</b></font>
+</p>
+
+---
+
+## ☁️ About Me
+
+☁️ <b>Cloud Focus:</b> Exploring AWS, Linux Server Management, Networking & Cloud Infrastructure.<br>
+🤖 <b>AI/ML Background:</b> Integrating Machine Learning models into cloud-native applications.<br>
+🎯 <b>Current Goal:</b> Building robust, auto-scalable, and secure cloud solutions.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/khushi-yadav-6417213a7"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/khushiyadav_08"><img src="https://img.shields.io/badge/X_(TWITTER)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Khushiyadav-Dev"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.kaggle.com/khushiy08"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+</p>
+
+---
+
+## 📊 Live Metrics & Language Distribution
+
+<p align="center">
+  <img src="https://github-readme-stats.open-source-service.workers.dev/api?username=khushiyadav-Dev&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.open-source-service.workers.dev/api/top-langs/?username=khushiyadav-Dev&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 🏗️ Cloud Infrastructure Pipeline Flow
+
+```mermaid
+flowchart LR
+    A[Client Request] --> B[AWS Route53 / CDN]
+    B --> C[Application Load Balancer]
+    C --> D[Docker Container EC2]
+    D --> E[Amazon S3 / Database]
+
+
+
+
+
+
+
+
+
+
+
 # Hi 👋, I'm Khushi Yadav
 
 ### Aspiring Cloud Engineer | B.Tech CSE (AI & ML)

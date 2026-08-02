@@ -35,11 +35,8 @@
   <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyadav-Dev&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyadav-Dev&layout=compact&theme=tokyonight&hide_border=true)" alt="Top Languages" width="48%" />
 </p>
 
----
-
 ## 🏗️ Cloud Infrastructure Pipeline Flow
-
-```mermaid
+`mermaid
 graph LR
     A[Client Request] --> B[AWS Route53 / CDN]
     B --> C[Application Load Balancer]

@@ -42,8 +42,132 @@ xml
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyadav-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-<img scr="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyadav-Dev&layout=compact&theme=tokyonight&hide_border=true" />
-<img scr="https://github-readme-stats.vercel.app/api/?username=khushiyadav-Dev&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GitHub Dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial;
+      background: #0f172a;
+      color: white;
+    }
+
+    .container {
+      width: 90%;
+      margin: auto;
+      margin-top: 30px;
+    }
+
+    .card {
+      background: linear-gradient(135deg, #1e293b, #0f172a);
+      padding: 20px;
+      border-radius: 15px;
+      margin-bottom: 20px;
+      box-shadow: 0px 0px 15px rgba(0,0,0,0.5);
+    }
+
+    .top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .stats-box {
+      display: flex;
+      gap: 20px;
+    }
+
+    .box {
+      flex: 1;
+      padding: 20px;
+      border-radius: 15px;
+      background: #1e293b;
+    }
+
+    h2 {
+      color: #38bdf8;
+    }
+
+    .highlight {
+      color: #22c55e;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+
+  <!-- Top Card -->
+  <div class="card top">
+    <div>
+      <h2>khushiyadav-Dev</h2>
+      <p class="highlight">📊 GitHub Contributions</p>
+      <p>📁 Public Repos: 5</p>
+      <p>📅 Joined: 2025</p>
+      <p>📧 khushiyadav1254@gmail.com</p>
+    </div>
+
+    <canvas id="areaChart" width="400" height="200"></canvas>
+  </div>
+
+  <!-- Bottom Cards -->
+  <div class="stats-box">
+    
+    <div class="box">
+      <h2>Top Languages</h2>
+      <canvas id="donutChart"></canvas>
+    </div>
+
+    <div class="box">
+      <h2>Stats</h2>
+      <p>⭐ Stars: 8</p>
+      <p>💻 Commits: 200+</p>
+      <p>🔀 PRs: 40+</p>
+      <p>⚠ Issues: 1</p>
+    </div>
+
+  </div>
+
+</div>
+
+<script>
+  // Area Chart
+  const ctx = document.getElementById('areaChart');
+  new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: ['Jan','Feb','Mar','Apr','May','Jun','Jul'],
+      datasets: [{
+        label: 'Contributions',
+        data: [5, 10, 15, 20, 50, 120, 80],
+        fill: true,
+        borderColor: '#a855f7',
+        backgroundColor: 'rgba(168,85,247,0.3)'
+      }]
+    }
+  });
+
+  // Donut Chart
+  const ctx2 = document.getElementById('donutChart');
+  new Chart(ctx2, {
+    type: 'doughnut',
+    data: {
+      labels: ['Python', 'Jupyter', 'JavaScript'],
+      datasets: [{
+        data: [50, 30, 20],
+        backgroundColor: ['#38bdf8', '#facc15', '#22c55e']
+      }]
+    }
+  });
+</script>
+
+</body>
+</html>
 
 graph LR
 A[Client Request] -->B[AWS Route53 / CDN]

@@ -39,7 +39,7 @@ xml
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=khushiyadav-Dev&theme=tokyonight&hide_border=true" alt="Khushi's GitHub Streak" />
 </div>
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyadav-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyadav-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages = c , python" />
 </div>
 
 
@@ -56,32 +56,6 @@ xml
       background: #0f172a;
       color: white;
     }
-
-   .container {
-      width: 90%;
-      margin: auto;
-      margin-top: 30px;
-    }
-
-  .card {
-      background: linear-gradient(135deg, #1e293b, #0f172a);
-      padding: 20px;
-      border-radius: 15px;
-      margin-bottom: 20px;
-      box-shadow: 0px 0px 15px rgba(0,0,0,0.5);
-    }
-
-   .top {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
-
-  .stats-box {
-      display: flex;
-      gap: 20px;
-  
-
 graph LR
 A[Client Request] -->B[AWS Route53 / CDN]
 B --> C[Application Load Balancer]

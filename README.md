@@ -38,10 +38,6 @@ xml
   
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=khushiyadav-Dev&theme=tokyonight&hide_border=true" alt="Khushi's GitHub Streak" />
 </div>
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyadav-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages = c , python" />
-</div>
-
 
 <!DOCTYPE html>
 <html lang="en">

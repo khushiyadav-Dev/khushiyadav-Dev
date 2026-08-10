@@ -57,13 +57,13 @@ xml
       color: white;
     }
 
-    .container {
+   .container {
       width: 90%;
       margin: auto;
       margin-top: 30px;
     }
 
-    .card {
+  .card {
       background: linear-gradient(135deg, #1e293b, #0f172a);
       padding: 20px;
       border-radius: 15px;
@@ -71,13 +71,13 @@ xml
       box-shadow: 0px 0px 15px rgba(0,0,0,0.5);
     }
 
-    .top {
+   .top {
       display: flex;
       justify-content: space-between;
       align-items: center;
     }
 
-    .stats-box {
+  .stats-box {
       display: flex;
       gap: 20px;
   

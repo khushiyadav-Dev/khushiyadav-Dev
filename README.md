@@ -36,19 +36,17 @@ xml
 <div align="center">
   <br />
   <!-- GitHub Overall Stats -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=khushiyadav-Dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Khushi's GitHub Stats" />
-  
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khushiyadav-Dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Khushi's GitHub Stats" />
+
   <!-- GitHub Streak Stats -->
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=khushiyadav-Dev&theme=tokyonight&hide_border=true" alt="Khushi's GitHub Streak" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=khushiyadav-Dev&theme=tokyonight&hide_border=true" alt="Khushi's GitHub Streak" />
 
   <br /><br />
 
   <!-- Automatic Most Used Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyadav-Dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyadav-Dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Most Used Languages" />
 </div>
   
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=khushiyadav-Dev&theme=tokyonight&hide_border=true" alt="Khushi's GitHub Streak" />
-</div
     
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)

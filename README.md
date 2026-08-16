@@ -53,10 +53,6 @@ xml
   <!-- Most Used Languages (Left Card) -->
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyadav-Dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
   &nbsp;
-  <!-- GitHub Streak (Right Card) -->
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=khushiyadav-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
     
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)

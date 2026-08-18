@@ -38,21 +38,17 @@ xml
   <!-- GitHub Overall Stats -->
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=khushiyadav-Dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Khushi's GitHub Stats" />
 
-  <!-- GitHub Streak Stats -->
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=khushiyadav-Dev&theme=tokyonight&hide_border=true" alt="Khushi's GitHub Streak" />
+ ### 📊 Ecosystem Stats & Language Distribution
 
-  <br /><br />
+<!-- GitHub Profile Summary Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushiyadav-Dev&theme=github_dark" width="100%" />
+</p>
 
-  <!-- Automatic Most Used Languages -->
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyadav-Dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Most Used Languages" />
-</div>
-  
-<div align="center">
-  <br />
-
-  <!-- Most Used Languages (Left Card) -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyadav-Dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-  &nbsp;
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushiyadav-Dev&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khushiyadav-Dev&theme=github_dark" width="49%" />
+</p> 
     
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)

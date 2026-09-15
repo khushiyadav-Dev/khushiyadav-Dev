@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khushi Yadav</h1>
+<h1 align="center">Hi 👋 I'm Khushi Yadav</h1>
 <h3 align="center">Aspiring Cloud Engineer | B.Tech CSE (AI & ML)</h3>
 
 <p align="center">

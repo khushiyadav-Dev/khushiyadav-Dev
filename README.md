@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="banner.gif" alt="Khushi Yadav — Cloud + AI/ML Engineer in progress" width="100%" />
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00D2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Khushi+Yadav;Cloud+%2B+AI%2FML+Engineer+in+the+making;AWS+%7C+Linux+%7C+Docker+%7C+Terraform;Building+tools+that+make+cloud+cost+visible" alt="Typing SVG" />
 
 ### Cloud Engineer in progress · B.Tech CSE (AI & ML)
